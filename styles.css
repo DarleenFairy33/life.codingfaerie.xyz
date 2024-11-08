@@ -42,3 +42,9 @@ fieldset{
 p{
     text-decoration: none;
 }
+
+footer{
+    font-size: xx-large;
+    color: maroon;
+    text-align: center;
+}
